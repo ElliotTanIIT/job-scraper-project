@@ -1,10 +1,10 @@
 # Job Scraper Project
 A personal project where I learn how to use Beautiful Soup and the python library Requests to scrape job information off job websites in order to better understand the professional environment
 
-### project Goal
+### Project Goal
 To analyze all remote data science positions posted on indeed.com and determine the most frequently mentioned data science skill/tool/tech used to decide which I should begin learning next.
 
-### job website used
+### Job Website Used
 indeed.com
 
 ### Process
