@@ -14,8 +14,9 @@ In order to get each job description from the job list, I had to get the html co
 
 Once I got the description, I noted down the tools that showed up in the description from my list, and stored it in a larger list for later.
 
-Unfortunately, while my code does work as intended, I ran into captcha issues. It is likely because indeed or google noticed the unusually large number of web page accesses. Because of this, I only gathered 70+ rows of data, but I plan to continue to add to this.
+Unfortunately, while my code does work as intended, I ran into captcha issues. It is likely because indeed or google noticed the unusually large number of web page accesses. Because of this, I only gathered 125 rows of data, but I plan to continue to add to this in the future
 
 ### Which tools showed up the most?
-Coming soon!
+From the data I gathered, my knowledge of python, excel, and SQL being the foremost important tools was reinforced. What I did not expect was for Tableau to be number 4. Because of this new information, and I will be looking to learn that in order to expand my skillset.
 
+![image](https://user-images.githubusercontent.com/42819771/121846272-580c2700-cd19-11eb-87c4-db1b2590ac6d.png)
