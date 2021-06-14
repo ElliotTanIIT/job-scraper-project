@@ -123,5 +123,3 @@
 121,DATA ANALYST (PROJECT/TEMPORARY),University of Washington,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
 122,Principal Data Engineer - Remote,Splunk,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 123,Senior Data Scientist,ClarisHealth,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
-,,python, R ,SQL,D3.js,matlab,excel, SAS ,BigML,Apache Spark,Jupyter,Tableau,Scikit,Tensorflow,Weka,Matplotlib,ggplot,nltk,Azure, BI ,,
-,,Total num of companies using each tool,86,14,61,0,5,51,3,0,0,2,17,6,5,1,2,2,2,6,7,
